@@ -1,0 +1,15 @@
+#<h1 class="text-3xl font-bold underline flex flex-col">
+#<h1>Hello world!<h1>
+
+#<h1>Hello World im fucked<h1>
+#</h1>
+#<p>
+#1. change the routes.erb file and make this the home page<br>
+#then you get the MVC archietechture:<br>
+#1.Modals : databases (migration is super ease in rails)<br>
+#2.views: Html pages or the front end part<br>
+#3.Controller : brains of the project <br>
+
+#</p>
+
+#<h1>This is my first ruby on rails project<h1>
